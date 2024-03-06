@@ -1,0 +1,3 @@
+interface Info {
+    fun Info()
+}
